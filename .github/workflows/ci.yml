@@ -25,4 +25,4 @@ jobs:
       run: pip install mlflow
 
     - name: Run MLflow Project
-      run: mlflow run MLProject -e main
+      run: mlflow run MLProject -e main --env-manager=local

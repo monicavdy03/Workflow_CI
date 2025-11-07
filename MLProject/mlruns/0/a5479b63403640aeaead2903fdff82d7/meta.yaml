@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/monica/Downloads/SMSML_Monika%20Dian%20Vidya%20Putri/Workflow-CI/MLProject/mlruns/0/a5479b63403640aeaead2903fdff82d7/artifacts
+end_time: 1761246603030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5479b63403640aeaead2903fdff82d7
+run_name: selective-hog-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761246590612
+status: 4
+tags: []
+user_id: monica
